@@ -18,7 +18,7 @@ Instructions on how to set up, train, and test the models, with code snippets an
 Data obtained from 
 https://hub.arcgis.com/datasets/9cb86b342f2d4f228067a7437a7f7313/about
 
-![evaluate](/images/eva.png)
+![Results](/images/)
 
 ## Reference
 
