@@ -15,10 +15,9 @@ Instructions on how to set up, train, and test the models, with code snippets an
 
 ## Experiment
 
-Data obtained from 
-https://hub.arcgis.com/datasets/9cb86b342f2d4f228067a7437a7f7313/about
+Data obtained from this [link](https://hub.arcgis.com/datasets/9cb86b342f2d4f228067a7437a7f7313/about)
 
-![Results](/images/)
+![Results from test data](/Figures/CombinedKernelPredictions.png)
 
 ## Reference
 
