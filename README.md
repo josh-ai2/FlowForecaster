@@ -8,7 +8,10 @@ Dataaccess.m is the file for splitting into train and test
 
 ## Model Training
 SVR models are trained with different kernels. Hyperparameter optimization is performed using Bayesian optimization to avoid extensive grid searches.
-We have four scripts for each, Gaussian, RBF, Linear, Polynomial
+We have four scripts for each, Gaussian, RBF, Linear, Polynomial. 
+
+# Model framework
+![link](/Figures/framework.png)
 
 ## Usage
 Instructions on how to set up, train, and test the models, with code snippets and examples.
@@ -27,7 +30,9 @@ I've drafted a manuscript as well to report the results:
 
 ## Planned feature implementations
 
-I plan to implement this into a website application, where user can upload any traffic flow dataset, and gain predictions from that. 
+- Implement into website application, where user can upload any traffic flow dataset, then model will predict results accordingly.
+- This model logic will be compiled into a library by MATLAB compiler SDK into a custom library, so we can call it from server-side.
+
 
 ## Reference
 
