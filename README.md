@@ -19,6 +19,16 @@ Data obtained from this [link](https://hub.arcgis.com/datasets/9cb86b342f2d4f228
 
 ![Results from test data](/Figures/CombinedKernelPredictions.png)
 
+I've drafted a manuscript as well to report the results: 
+![link](/Figures/flowcaster1.png)
+![link](/Figures/flowcaster2.png)
+[link](/FlowForecaster_manuscript.pdf)
+
+
+## Planned feature implementations
+
+I plan to implement this into a website application, where user can upload any traffic flow dataset, and gain predictions from that. 
+
 ## Reference
 
 	@article{SAEs,  
